@@ -1,0 +1,15 @@
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\bin\Debug\net6.0\multiple.exe
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\bin\Debug\net6.0\multiple.deps.json
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\bin\Debug\net6.0\multiple.runtimeconfig.json
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\bin\Debug\net6.0\multiple.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\bin\Debug\net6.0\multiple.pdb
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.csproj.AssemblyReference.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.AssemblyInfoInputs.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.AssemblyInfo.cs
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.csproj.CoreCompileInputs.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\refint\multiple.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.pdb
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\multiple.genruntimeconfig.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_2\multiple\obj\Debug\net6.0\ref\multiple.dll
