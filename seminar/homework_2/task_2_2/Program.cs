@@ -31,4 +31,4 @@ if(thirdDigit == -1)
     else
     {
          System.Console.WriteLine("Третья цифра введенного числа " + number + " это " + thirdDigit +"");  
-    }  
+    }
