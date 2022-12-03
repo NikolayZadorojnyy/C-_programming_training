@@ -1,0 +1,15 @@
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\bin\Debug\net6.0\task_6.exe
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\bin\Debug\net6.0\task_6.deps.json
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\bin\Debug\net6.0\task_6.runtimeconfig.json
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\bin\Debug\net6.0\task_6.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\bin\Debug\net6.0\task_6.pdb
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.csproj.AssemblyReference.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.AssemblyInfoInputs.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.AssemblyInfo.cs
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.csproj.CoreCompileInputs.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\refint\task_6.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.pdb
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\task_6.genruntimeconfig.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\less_4\task_6\obj\Debug\net6.0\ref\task_6.dll
