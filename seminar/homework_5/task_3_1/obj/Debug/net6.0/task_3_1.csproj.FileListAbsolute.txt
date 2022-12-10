@@ -1,0 +1,15 @@
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.csproj.AssemblyReference.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.AssemblyInfoInputs.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.AssemblyInfo.cs
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.csproj.CoreCompileInputs.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\bin\Debug\net6.0\task_3_1.exe
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\bin\Debug\net6.0\task_3_1.deps.json
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\bin\Debug\net6.0\task_3_1.runtimeconfig.json
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\bin\Debug\net6.0\task_3_1.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\bin\Debug\net6.0\task_3_1.pdb
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\refint\task_3_1.dll
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.pdb
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\task_3_1.genruntimeconfig.cache
+C:\Users\Николай 7х64\Desktop\project\c#_programming\seminar\homework_5\task_3_1\obj\Debug\net6.0\ref\task_3_1.dll
