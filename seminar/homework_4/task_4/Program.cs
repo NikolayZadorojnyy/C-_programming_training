@@ -1,13 +1,12 @@
-﻿// Задача *: Напишите программу, 
+﻿// Задача *: Напишите программу,
 // которая из массива случайных чисел. Ищет второй максимум
 //  (число меньше максимального элемента, но больше всех остальных).
-//   Постарайтесь сделать одним циклом 
+//   Постарайтесь сделать одним циклом
 // [1, 3, 5, 6, 6, 4] -> 5
 
 //функция ввода массива случайных чисел с заданными параметрами
 int[] GenerateArray(int Length, int minRange, int maxRange)
 {
-
     int[] array = new int[Length];
     for (int i = 0; i < array.Length; i++)
     {
@@ -44,7 +43,7 @@ int SecondMaxElement(int[] array)
             max2 = max1;
             max1 = array[i];
         }
-        else if(max2 < array[i])
+        else if (max2 < array[i])
         {
             max2 = array[i];
         }
@@ -61,4 +60,3 @@ int[] arr = GenerateArray(Range, minValue, maxValue);
 PrintArray(arr);
 
 Console.WriteLine("Второй максимум массива равен: " + SecondMaxElement(arr));
-

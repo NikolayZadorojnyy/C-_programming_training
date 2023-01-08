@@ -2,6 +2,7 @@
 // число и возвращать сумму его цифр. Использовать рекурсию.
 // 453 -> 12
 // 45 -> 9
+
 int Prompt(string message)
 {
     System.Console.Write(message);

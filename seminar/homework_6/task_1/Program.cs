@@ -5,7 +5,7 @@
 
 int Prompt(string message)
 {
-    Console.Write($"{message} ");              // Вывод приглашения
+    Console.Write($"{message} "); // Вывод приглашения
     return Convert.ToInt32(Console.ReadLine()); // ввод числа
 }
 

@@ -2,6 +2,7 @@
 // что третьей цифры нет. . Не использовать строки
 // 645 -> 5
 // 78 -> третьей цифры нет
+
 int Promt(string message)
 {
 System.Console.Write($"{message}> ");
@@ -32,3 +33,4 @@ if(thirdDigit == -1)
     {
          System.Console.WriteLine("Третья цифра введенного числа " + number + " это " + thirdDigit +"");  
     }
+    
