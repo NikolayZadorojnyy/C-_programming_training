@@ -3,7 +3,7 @@
 // 2 -> 0.5
 // 0.25 -> 4
 Console.Write("Введите число N > "); // Вывод приглашения ввода
-string inputValue = Console.ReadLine(); // Ввод строки с терминала (с консоли)
+var inputValue = Console.ReadLine(); // Ввод строки с терминала (с консоли)
 double N = Convert.ToDouble(inputValue); // Преобразование строки в число
 double K = 1/N;
 Console.Write($"Обратное числа {N:f10} = {K:f10}");

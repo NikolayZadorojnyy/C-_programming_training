@@ -5,7 +5,7 @@
 // -3 -> 9
 // -7 -> 49
 Console.Write("Введите число > "); // Вывод приглашения ввода
-string inputValue = Console.ReadLine(); // Ввод строки с терминала (с консоли)
+var inputValue = Console.ReadLine(); // Ввод строки с терминала (с консоли)
 int value = Convert.ToInt32(inputValue); // Преобразование строки в число
 int squareValue = value * value; // вычисление квадрата
 System.Console.WriteLine("Квадрат значения " + value + " равен " + squareValue);
