@@ -30,22 +30,23 @@ Console.WriteLine(num1);
 int num2 = new Random().Next();             //генерируем любое число
 Console.WriteLine($"Исходное число {num2}");
 Value3(num2);
+do
 int Value3(int num3) //функция определения третьей цифры числа
 {
-if (num3 < 100 && num3 > -100)return -1;
-    else
+  if (num3 < 100 && num3 > -100) return -1;
+  else
+  {
+    while (!(num3 / 1000 == 0))
     {
-        while (!(num3 / 1000 == 0))
-        {
-            num3 /= 10;
-        }
-        num3 %= 10;
+      num3 /= 10;
     }
-    return (num3 >= 0 ? num3 : -num3);
+    num3 %= 10;
+  }
+  return (num3 >= 0 ? num3 : -num3);
 }
 if (Value3(num2) == -1)
 {
-System.Console.WriteLine("У этого числа нет третьей цифры ");
+  System.Console.WriteLine("У этого числа нет третьей цифры ");
 }
 else
-System.Console.WriteLine($"Третья цифра числа {num2} это {Value3(num2)}");
+  System.Console.WriteLine($"Третья цифра числа {num2} это {Value3(num2)}");
