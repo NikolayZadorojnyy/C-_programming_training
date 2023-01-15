@@ -8,6 +8,7 @@
 int[] arr = { 0, -5, 2, 3, 5, 9, -1, 7 };
 QuickSort(arr, 0, arr.Length - 1);
 Console.Write($"Отсортированный массив {string.Join(", ", arr)}");
+Console.ReadLine();
 
 static void QuickSort(int[] inputArray, int minIndex, int maxIndex)
 {
