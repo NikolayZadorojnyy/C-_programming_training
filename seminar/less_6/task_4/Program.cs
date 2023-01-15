@@ -37,5 +37,5 @@ int[] array2 = CopyArray(array);
 
 array[0] = 999;
 PrintArray(array);
-PrintArray(array2);
+PrintArray(array: array2);
 
