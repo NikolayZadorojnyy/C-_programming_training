@@ -50,4 +50,3 @@ int[] array = GenerateArray(Length, minArray, maxArray);
 PrintArray(array);
 PrintArray(Multi(array));
 // System.Console.WriteLine($"Count of numbers is {Multi(array)}");
-Console.ReadKey();
