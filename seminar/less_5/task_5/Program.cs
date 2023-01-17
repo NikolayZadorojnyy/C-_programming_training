@@ -6,6 +6,7 @@
 // функция нахождения произведения пар чисел начиная первого и последнего элемента
 // [1 2 3 4 5] -> 5 8 3
 // [6 7 3 6] -> 36 21
+
 int[] GenerateArray(int Length, int minRange, int maxRange)
 {
     int[] array = new int[Length];
